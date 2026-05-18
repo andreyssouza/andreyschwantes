@@ -56,10 +56,6 @@ Sou **Andrey Schwantes de Souza**, desenvolvedor apaixonado por tecnologia com f
 - 🔧 API REST
 - 📊 Gerenciamento de Dados
 
-## 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreyssouza&show_icons=true&theme=radical)
-
 ## 🎓 Aprendizado Contínuo
 
 Estou sempre em busca de melhorar minhas habilidades e explorar:
