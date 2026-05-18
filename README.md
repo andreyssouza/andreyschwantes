@@ -71,7 +71,7 @@ Estou sempre em busca de melhorar minhas habilidades e explorar:
 
 ## 📫 Vamos Conectar!
 
-- 💼 **LinkedIn**: [Andrey Schwantes](https://linkedin.com/in/andreyssouza)
+- 💼 **LinkedIn**: [Andrey Schwantes](https://linkedin.com/in/andreyschwantes)
 - 📧 **Email**: andreyschowza@gmail.com
 - 🐙 **GitHub**: [@andreyssouza](https://github.com/andreyssouza)
 
